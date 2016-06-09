@@ -1,0 +1,5 @@
+You have been registered as a new user with 
+User ID:'7507156006' And Passord:'7507156006'
+You can login any time from login page with this User ID and Password.
+Please change your password on first login.
+Your Application Id is- ECIS132142014Form8182
